@@ -1,0 +1,2 @@
+# Summary
+Graylog Docker image
